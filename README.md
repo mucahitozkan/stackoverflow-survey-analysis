@@ -24,6 +24,9 @@ programming language popularity, salary trends, and remote work patterns.
 - SQL (SQLite)
 - Jupyter Notebook
 - Git & GitHub
+  
+## Tableau Dashboard
+Interactive dashboard: [View on Tableau Public](https://public.tableau.com/views/StackOverflowSurvey2025Analysis/Dashboard1)
 
 ## Dataset
 Dataset not included due to file size.  
